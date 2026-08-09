@@ -1,4 +1,4 @@
-const API_URL = "http://localhost:5000/predict";
+const API_URL = "https://heart-disease-predictor-d4oh.onrender.com";
 
 const form = document.getElementById("predict-form");
 const submitBtn = document.getElementById("submit-btn");
